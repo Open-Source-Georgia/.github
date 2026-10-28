@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/ORG/.github/raw/main/profile/logo.gif" width="500" alt="Open Source Georgia" />
+<img src="https://github.com/Open-Source-Georgia/.github/blob/main/profile/logo.gif?raw=true" width="500" alt="Open Source Georgia" />
 
 # Open Source Georgia 🇬🇪
 
